@@ -1,0 +1,2 @@
+print("Coffee.")
+print("Lava.")
